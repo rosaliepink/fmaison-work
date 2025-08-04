@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>花家彩子のウェブサイト on fmaison-work</title>
-    <link>http://example.org/</link>
+    <link>https://rosaliepink.github.io/fmaison-work/</link>
     <description>Recent content in 花家彩子のウェブサイト on fmaison-work</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 04 Aug 2025 20:16:07 +0900</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rosaliepink.github.io/fmaison-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://rosaliepink.github.io/fmaison-work/about/</link>
       <pubDate>Mon, 04 Aug 2025 20:16:07 +0900</pubDate>
-      <guid>http://example.org/about/</guid>
+      <guid>https://rosaliepink.github.io/fmaison-work/about/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;date-2025-08-04&#34;&gt;title: &amp;ldquo;プロフィール&amp;rdquo;
 date: 2025-08-04&lt;/h2&gt;</description>
