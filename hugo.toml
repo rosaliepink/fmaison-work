@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "fmaison-work"
+theme = "PaperMod"
+hasCJKLanguage = true
+publishDir = "docs"
+
+[params]
+  author = "彩子 花家"
+  defaultTheme = "light"
+  ShowReadingTime = false
+  disableSpecial1stPost = true
+  ShowToc = false
+
